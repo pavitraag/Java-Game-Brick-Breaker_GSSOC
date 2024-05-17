@@ -3,7 +3,6 @@
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=awaismirza.brick-breaker)
 ![GitHub forks](https://img.shields.io/github/forks/awaismirza/Java-Game-Brick-Breaker.svg?style=social&label=Fork)
 ![GitHub Repo stars](https://img.shields.io/github/stars/awaismirza/Java-Game-Brick-Breaker.svg?style=social&label=Stars)
 ![GitHub contributors](https://img.shields.io/github/contributors/awaismirza/Java-Game-Brick-Breaker)
