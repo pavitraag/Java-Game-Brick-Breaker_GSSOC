@@ -18,7 +18,6 @@
 ## Table of Contents 🧾
 - [Introduction📌](#introduction)
 - [Technology Used🚀](#technology-used)
-- [Overview⭐](#overview)
 - [Getting Started💥](#getting-started)
 - [Contributing Guidelines📑](#contributing-guidelines)
 - [Code Of Conduct📑](#code-of-conduct)
@@ -26,7 +25,7 @@
 - [License 📝](#license)
 
 
-## About Our Project
+## Introduction📌
 Brick Breaker is a classic arcade game where the player controls a paddle to bounce a ball and break bricks on the screen. This project is implemented in Java, using Swing for the graphical user interface. It includes features such as multiple levels, score tracking, and collision detection, providing a fun and challenging experience.
 
 ## Technology Used 🚀
