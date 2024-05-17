@@ -22,8 +22,9 @@
 - [Getting Started💥](#getting-started)
 - [Contributing Guidelines📑](#contributing-guidelines)
 - [Code Of Conduct📑](#code-of-conduct)
-- [Project Admin⚡](#project-admin)
-- [Contributing is Fun🧡](#contributing-is-fun)
+- [Contributors⚡](#contributors)
+- [License 📝](#license)
+
 
 ## About Our Project
 Brick Breaker is a classic arcade game where the player controls a paddle to bounce a ball and break bricks on the screen. This project is implemented in Java, using Swing for the graphical user interface. It includes features such as multiple levels, score tracking, and collision detection, providing a fun and challenging experience.
@@ -84,8 +85,11 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
 Commit your Changes (git commit -m 'Add some AmazingFeature')
+
 Push to the Branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 ## Code Of Conduct 📑
@@ -97,9 +101,6 @@ Thank you for contributing to our project! We appreciate your help in making the
 
 ![Red Heart Emoji](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png)
 
-[![Contributors](https://contrib.rocks/image?repo=awaismirza/Java-Game-Brick-Breaker)](https://github.com/awaismirza/Java-Game-Brick-Breaker/graphs/contributors)
-
-
 
 ## License
 
@@ -107,5 +108,3 @@ Thank you for contributing to our project! We appreciate your help in making the
 
 This project is licensed under the [MIT License](./LICENSE).
 
-## Contributing is Fun 🧡
-We believe that contributing to open source projects should be an enjoyable experience. Thank you for considering contributing to Brick Breaker!
