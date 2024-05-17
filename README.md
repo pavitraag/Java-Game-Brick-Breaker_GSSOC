@@ -1,17 +1,19 @@
-## Brick Breaker Java Game
+## Brick Breaker
+
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=awaismirza.brick-breaker)
-![GitHub forks](https://img.shields.io/github/forks/awaismirza/brick-breaker.svg?style=social&label=Fork)
-![GitHub Repo stars](https://img.shields.io/github/stars/awaismirza/brick-breaker.svg?style=social&label=Stars)
-![GitHub contributors](https://img.shields.io/github/contributors/awaismirza/brick-breaker)
-![GitHub last commit](https://img.shields.io/github/last-commit/awaismirza/brick-breaker)
-![GitHub repo size](https://img.shields.io/github/repo-size/awaismirza/brick-breaker)
-![GitHub issues](https://img.shields.io/github/issues/awaismirza/brick-breaker)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/awaismirza/brick-breaker)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/awaismirza/brick-breaker)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/awaismirza/brick-breaker)
+![GitHub forks](https://img.shields.io/github/forks/awaismirza/Java-Game-Brick-Breaker.svg?style=social&label=Fork)
+![GitHub Repo stars](https://img.shields.io/github/stars/awaismirza/Java-Game-Brick-Breaker.svg?style=social&label=Stars)
+![GitHub contributors](https://img.shields.io/github/contributors/awaismirza/Java-Game-Brick-Breaker)
+![GitHub last commit](https://img.shields.io/github/last-commit/awaismirza/Java-Game-Brick-Breaker)
+![GitHub repo size](https://img.shields.io/github/repo-size/awaismirza/Java-Game-Brick-Breaker)
+![GitHub issues](https://img.shields.io/github/issues/awaismirza/Java-Game-Brick-Breaker)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/awaismirza/Java-Game-Brick-Breaker)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/awaismirza/Java-Game-Brick-Breaker)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/awaismirza/Java-Game-Brick-Breaker)
+
 
 
 ## Table of Contents 🧾
