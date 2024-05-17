@@ -91,7 +91,14 @@ Open a Pull Request
 ## Code Of Conduct 📑
 This project adheres to the Contributor Covenant code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [project email].
 
-## Project Admin ⚡
+## Contributors⚡
+
+Thank you for contributing to our project! We appreciate your help in making the Brick Breaker Game even better. 😃
+
+![Red Heart Emoji](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png)
+
+[![Contributors](https://contrib.rocks/image?repo=awaismirza/Java-Game-Brick-Breaker)](https://github.com/awaismirza/Java-Game-Brick-Breaker/graphs/contributors)
+
 
 
 ## License
